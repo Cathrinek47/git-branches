@@ -1,0 +1,36 @@
+1509490 Merge commin
+d321308 New commit on main
+e69b76c Commit on branch2
+4f81e71 First commit from a main branch
+db7f6a3 Initial commit
+
+commit 15094901e17be27b7a3f9360ddcc293d75f31e8a
+Merge: d321308 e69b76c
+Author: EkaterinaKutuzova <cathrinek47@gmail.com>
+Date:   Sun Jun 16 16:49:52 2024 +0200
+
+    Merge commin
+
+commit d321308a8cdc2b5f95a8eb71d4b591b6ba751f01
+Author: EkaterinaKutuzova <cathrinek47@gmail.com>
+Date:   Sun Jun 16 16:37:54 2024 +0200
+
+    New commit on main
+
+commit e69b76cd2c1924472b6bcd866a349353fa9a9579
+Author: EkaterinaKutuzova <cathrinek47@gmail.com>
+Date:   Sun Jun 16 16:34:53 2024 +0200
+
+    Commit on branch2
+
+commit 4f81e714338370519c623bdd28e9f9be179748c5
+Author: EkaterinaKutuzova <cathrinek47@gmail.com>
+Date:   Sun Jun 16 16:31:36 2024 +0200
+
+    First commit from a main branch
+
+commit db7f6a3eca71e7ee4139acc5403a70569fe9b498
+Author: Cathrinek47 <161233199+Cathrinek47@users.noreply.github.com>
+Date:   Wed Jun 12 08:35:11 2024 +0200
+
+    Initial commit
