@@ -1,2 +1,4 @@
 It is a new line for commit 2 - main branch.
+It is a new line for branch2.
+
 I wish you a good day!
